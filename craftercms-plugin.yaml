@@ -41,27 +41,27 @@ plugin:
     An e-commerce blueprint with full integration with commercetools https://commercetools.com
   website:
     name: commercetools Blueprint
-    url: https://github.com/craftercms/commercetools-blueprint.git
+    url: https://github.com/craftersoftware/commercetools-blueprint
   media:
     screenshots:
       - title: Home Page
         description: Home Page
-        url: "https://raw.githubusercontent.com/craftercms/commercetools-blueprint/master/static-assets/images/screenshots/home-page.jpg"
+        url: "https://raw.githubusercontent.com/craftersoftware/commercetools-blueprint/5/static-assets/images/screenshots/home-page.jpg"
       - title: Blog
         description: The Blog
-        url: "https://raw.githubusercontent.com/craftercms/commercetools-blueprint/master/static-assets/images/screenshots/blog.jpg"
+        url: "https://raw.githubusercontent.com/craftersoftware/commercetools-blueprint/5/static-assets/images/screenshots/blog.jpg"
       - title: Catalog
         description: Shop the Catalog
-        url: "https://raw.githubusercontent.com/craftercms/commercetools-blueprint/master/static-assets/images/screenshots/catalog.jpg"
+        url: "https://raw.githubusercontent.com/craftersoftware/commercetools-blueprint/5/static-assets/images/screenshots/catalog.jpg"
       - title: Shopping Cart
         description: View the Shopping Cart
-        url: "https://raw.githubusercontent.com/craftercms/commercetools-blueprint/master/static-assets/images/screenshots/cart.jpg"
+        url: "https://raw.githubusercontent.com/craftersoftware/commercetools-blueprint/5/static-assets/images/screenshots/cart.jpg"
       - title: Signin
         description: User Signin
-        url: "https://raw.githubusercontent.com/craftercms/commercetools-blueprint/master/static-assets/images/screenshots/signin.jpg"
+        url: "https://raw.githubusercontent.com/craftersoftware/commercetools-blueprint/5/static-assets/images/screenshots/signin.jpg"
       - title: User Profile
         description: User profile, address book, order history, etc.
-        url: "https://raw.githubusercontent.com/craftercms/commercetools-blueprint/master/static-assets/images/screenshots/profile.jpg"
+        url: "https://raw.githubusercontent.com/craftersoftware/commercetools-blueprint/5/static-assets/images/screenshots/profile.jpg"
   developer:
     company:
       name: CrafterCMS
